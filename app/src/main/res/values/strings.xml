@@ -3,4 +3,7 @@
     <string name="logo">Logo aplikacji</string>
     <string name="email">E-mail</string>
     <string name="password">Hasło</string>
+    <string name="remember">Zapamiętaj mnie</string>
+    <string name="login">Zaloguj</string>
+    <string name="forgot">Nie pamiętam hasła</string>
 </resources>
